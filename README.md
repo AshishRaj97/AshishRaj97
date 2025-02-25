@@ -1,16 +1,15 @@
-## Hi there 👋
+### 👋 Hey there, I'm Ashish Raj!  
+🚀 **Tech Enthusiast | Problem Solver | ML & Data Nerd**  
 
-<!--
-**AshishRaj97/AshishRaj97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love diving deep into **data analysis and machine learning**, optimizing algorithms, and building efficient solutions. I’m currently sharpening my **DSA skills** and exploring how **data-driven insights** can solve real-world problems.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me  
+- 🧠 **Learning**: Data Structures & Algorithms | Data Analysis | Machine Learning  
+- 🔍 **Exploring**: Optimized problem-solving techniques & model performance tuning  
+- 🏗️ **Building**: Scalable solutions for data-driven decision-making  
+- 📖 **Hobbies**: Reading books & staying updated with tech trends  
+- 🤝 **Open to**: Collaboration on **ML projects, data analytics, and optimization problems**  
+
+---
